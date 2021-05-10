@@ -8,13 +8,11 @@
 }
 .parent{
       background-color: white;
+     box-shadow: 0 1px 6px black,0 1px 4px ghostwhite;
       /* border: 2px solid red; */
       width: 90%;
       height: 90%;
       margin: 10% auto;
-}
-.parent:hover{
-    box-shadow: 0 1px 6px black,0 1px 4px ghostwhite;
 }
 .top img{
       width: 70%;
